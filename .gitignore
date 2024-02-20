@@ -12,7 +12,8 @@
 /zookd2
 /shellcode*.bin
 /run-shellcode
-/zoobar/db
+/zoobar/db/*
+!/zoobar/db/.empty
 /handin.tar.gz
 /handin.zip
 __pycache__
