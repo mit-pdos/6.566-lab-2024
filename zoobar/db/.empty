@@ -1,0 +1,3 @@
+This is a placeholder file to make sure the zoobar/db directory exists.
+The directory needs to exist in order to allow containers to mount a
+tmpfs directory over /app/zoobar/db to provide per-container db storage.
